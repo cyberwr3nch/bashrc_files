@@ -1,2 +1,2 @@
 # bashrc_files
-bashrc_collections
+Copy of bashrc's
